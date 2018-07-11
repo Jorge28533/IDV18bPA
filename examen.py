@@ -2,13 +2,21 @@
 
 
 '''
+<<<<<<< HEAD
 def Hola():
+=======
+def lista():
+>>>>>>> e19af1a906fc4f0ad3a060c97fa6c75156f2b4ac
 	x = int(input("Escoje un numero:  "))
 	lista = [8, 3, 6, 5, 1, 10]
 	m =	lista > x
 	print(m)
 '''
+<<<<<<< HEAD
 def calamidad():
+=======
+def Junta():
+>>>>>>> e19af1a906fc4f0ad3a060c97fa6c75156f2b4ac
 	myList = [3, 7, 5, 3, 45, 32, 2, 1, 87, 9, 3, 5,78]
 	Lista = [3, 7, 5, 3, 6, 4, 3]
 	print(myList)
@@ -19,7 +27,11 @@ def calamidad():
 	print(myList)
 
 
+<<<<<<< HEAD
 def hola 2():
+=======
+def Devuelve():
+>>>>>>> e19af1a906fc4f0ad3a060c97fa6c75156f2b4ac
 	La = ["gato","perro","pajaro","lajartija"]
 	print(La)
 	z = La.pop()
